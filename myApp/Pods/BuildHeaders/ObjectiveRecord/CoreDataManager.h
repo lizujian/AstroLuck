@@ -1,0 +1,1 @@
+../../ObjectiveRecord/src/CoreDataManager.h
