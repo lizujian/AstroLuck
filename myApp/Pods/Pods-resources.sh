@@ -25,6 +25,6 @@ install_resource 'EGOTableViewPullRefresh/EGOTableViewPullRefresh/Resources/gray
 install_resource 'EGOTableViewPullRefresh/EGOTableViewPullRefresh/Resources/grayArrow@2x.png'
 install_resource 'EGOTableViewPullRefresh/EGOTableViewPullRefresh/Resources/whiteArrow.png'
 install_resource 'EGOTableViewPullRefresh/EGOTableViewPullRefresh/Resources/whiteArrow@2x.png'
-install_resource 'Nimbus/src/webcontroller/resources/NimbusWebController.bundle'
-install_resource 'Nimbus/src/photos/resources/NimbusPhotos.bundle'
 install_resource 'Nimbus/src/overview/resources/NimbusOverviewer.bundle'
+install_resource 'Nimbus/src/photos/resources/NimbusPhotos.bundle'
+install_resource 'Nimbus/src/webcontroller/resources/NimbusWebController.bundle'

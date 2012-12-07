@@ -1,15 +1,47 @@
 
 COCOAPODS: 0.15.2
 
-DEPENDENCIES: 
-- ASIHTTPRequest (= 1.8.1)
-- EGOTableViewPullRefresh (= 0.1.0)
-- MBProgressHUD (= 0.5)
-- Nimbus (= 0.9.3)
-- ObjectAL-for-iPhone (= 2.1)
-- ObjectiveRecord (= 1.01)
-- RestKit (= 0.10.3)
-- SDWebImage (= 2.7)
+SPEC CHECKSUMS: 
+  Nimbus/PagingScrollView: 6a35688977607cda01be9027699a9e64bd08fb99
+  RestKit: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
+  Nimbus/WebController: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/AttributedLabel: 6a35688977607cda01be9027699a9e64bd08fb99
+  JSONKit: a01a22c75f27eae76b4badd55a91c20fe6e86477
+  Nimbus/Overview: 6a35688977607cda01be9027699a9e64bd08fb99
+  LibComponentLogging-Core: 344f6045453ca28fa8f2909eb9624ec9d15ef256
+  Nimbus/NetworkImage: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/NetworkControllers: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Core: 6a35688977607cda01be9027699a9e64bd08fb99
+  LibComponentLogging-NSLog: a4bb0f6de612eef7b5fcdbd9cc96dc868ba1f2df
+  SDWebImage: 6be78ee398d329bdd22c85a0e11ee41bd1f52066
+  Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
+  NSData+Base64: 8b910cb8a64f45daec6fb15936c36a9a911c57ca
+  ASIHTTPRequest/ASIWebPageRequest: e606d2df58b0aace6c1cf1d39a08d3484f91324a
+  ASIHTTPRequest: e606d2df58b0aace6c1cf1d39a08d3484f91324a
+  RestKit/ObjectMapping/JSON: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
+  RestKit/ObjectMapping/CoreData: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
+  Nimbus/Photos: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Operations: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Operations/JSON: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/Models: 6a35688977607cda01be9027699a9e64bd08fb99
+  FMDB: 77fb1c93b51bbf14d84d49d5374344b7f68c54f1
+  ASIHTTPRequest/CloudFiles: e606d2df58b0aace6c1cf1d39a08d3484f91324a
+  cocoa-oauth: 8f4c8b77c77ac660de37f8125557c4ec09b0118a
+  SDWebImage/Main: 6be78ee398d329bdd22c85a0e11ee41bd1f52066
+  RestKit/UI: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
+  Nimbus/Launcher: 6a35688977607cda01be9027699a9e64bd08fb99
+  SOCKit: 179515c1a621dd5652a60e9be02ea4adcd25bc9b
+  ObjectAL-for-iPhone: 5a5b1087932eb19a8d24bd888ab03051c14c0981
+  MBProgressHUD: b23ee11c42253d6d804e8e0bfabdc334e8b2571f
+  FileMD5Hash: c3b015e6fb293eea0a0c276747f61f20408c2644
+  EGOTableViewPullRefresh: 6ba637ce6dd3186b503d2d91e6b3a08a26d650f5
+  ASIHTTPRequest/S3: e606d2df58b0aace6c1cf1d39a08d3484f91324a
+  RestKit/Network: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
+  RestKit/JSON: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
+  Nimbus/Interapp: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus/CSS: 6a35688977607cda01be9027699a9e64bd08fb99
+  Nimbus: 6a35688977607cda01be9027699a9e64bd08fb99
+  ISO8601DateFormatter: dc05a2481edf49668d85d3ff8c466c32eb544780
 
 PODS: 
 - ASIHTTPRequest (1.8.1): 
@@ -24,6 +56,7 @@ PODS:
 - ASIHTTPRequest/S3 (1.8.1): 
   - Reachability
 - EGOTableViewPullRefresh (0.1.0)
+- FMDB (2.0)
 - FileMD5Hash (0.0.1)
 - ISO8601DateFormatter (0.6)
 - JSONKit (1.5pre)
@@ -77,7 +110,6 @@ PODS:
 - Nimbus/WebController (0.9.3): 
   - Nimbus/Core
 - ObjectAL-for-iPhone (2.1)
-- ObjectiveRecord (1.01)
 - Reachability (3.1.0)
 - RestKit (0.10.3): 
   - RestKit/JSON (= 0.10.3)
@@ -106,44 +138,12 @@ PODS:
 - cocoa-oauth (0.0.1): 
   - NSData+Base64 (~> 1.0)
 
-SPEC CHECKSUMS: 
-  SDWebImage/Main: 6be78ee398d329bdd22c85a0e11ee41bd1f52066
-  RestKit/ObjectMapping/CoreData: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
-  Nimbus/NetworkImage: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/Models: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/Interapp: 6a35688977607cda01be9027699a9e64bd08fb99
-  ASIHTTPRequest/ASIWebPageRequest: e606d2df58b0aace6c1cf1d39a08d3484f91324a
-  RestKit/ObjectMapping/JSON: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
-  Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
-  Nimbus/Core: 6a35688977607cda01be9027699a9e64bd08fb99
-  MBProgressHUD: b23ee11c42253d6d804e8e0bfabdc334e8b2571f
-  RestKit/Network: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
-  Nimbus: 6a35688977607cda01be9027699a9e64bd08fb99
-  cocoa-oauth: 8f4c8b77c77ac660de37f8125557c4ec09b0118a
-  Nimbus/WebController: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/Operations: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/Launcher: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/CSS: 6a35688977607cda01be9027699a9e64bd08fb99
-  LibComponentLogging-NSLog: a4bb0f6de612eef7b5fcdbd9cc96dc868ba1f2df
-  ISO8601DateFormatter: dc05a2481edf49668d85d3ff8c466c32eb544780
-  EGOTableViewPullRefresh: 6ba637ce6dd3186b503d2d91e6b3a08a26d650f5
-  ASIHTTPRequest: e606d2df58b0aace6c1cf1d39a08d3484f91324a
-  RestKit/UI: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
-  Nimbus/NetworkControllers: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/Photos: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/Overview: 6a35688977607cda01be9027699a9e64bd08fb99
-  NSData+Base64: 8b910cb8a64f45daec6fb15936c36a9a911c57ca
-  JSONKit: a01a22c75f27eae76b4badd55a91c20fe6e86477
-  FileMD5Hash: c3b015e6fb293eea0a0c276747f61f20408c2644
-  ASIHTTPRequest/S3: e606d2df58b0aace6c1cf1d39a08d3484f91324a
-  SOCKit: 179515c1a621dd5652a60e9be02ea4adcd25bc9b
-  Nimbus/PagingScrollView: 6a35688977607cda01be9027699a9e64bd08fb99
-  Nimbus/AttributedLabel: 6a35688977607cda01be9027699a9e64bd08fb99
-  RestKit: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
-  Nimbus/Operations/JSON: 6a35688977607cda01be9027699a9e64bd08fb99
-  ASIHTTPRequest/CloudFiles: e606d2df58b0aace6c1cf1d39a08d3484f91324a
-  SDWebImage: 6be78ee398d329bdd22c85a0e11ee41bd1f52066
-  RestKit/JSON: 1fb57eb941d7d2587648491507a0bcaeb70b67f2
-  ObjectiveRecord: c4a9b7bf823d5664891f5f405a89472045756785
-  ObjectAL-for-iPhone: 5a5b1087932eb19a8d24bd888ab03051c14c0981
-  LibComponentLogging-Core: 344f6045453ca28fa8f2909eb9624ec9d15ef256
+DEPENDENCIES: 
+- ASIHTTPRequest (= 1.8.1)
+- EGOTableViewPullRefresh (= 0.1.0)
+- FMDB (= 2.0)
+- MBProgressHUD (= 0.5)
+- Nimbus (= 0.9.3)
+- ObjectAL-for-iPhone (= 2.1)
+- RestKit (= 0.10.3)
+- SDWebImage (= 2.7)
