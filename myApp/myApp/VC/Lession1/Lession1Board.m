@@ -7,7 +7,6 @@
 //
 
 #import "Lession1Board.h"
-#import "LeveyTabBarController.h"
 
 @interface Lession1Board ()
 
@@ -83,7 +82,6 @@
 	if ( [signal is:BeeUIBoard.CREATE_VIEWS] )
 	{
 		// 界面创建
-//        LeveyTabBarController *tabbarVC = [[LeveyTabBarController alloc]initWithViewControllers:_viewControllers imageArray:_images];
 		[self setTitleString:@"Lession 1"];
 		[self showNavigationBarAnimated:NO];
 	}
