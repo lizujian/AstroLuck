@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/app/search/ns-mobile/!svn/ver/40656/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/app/search/ns-mobile/!svn/ver/40656/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIDownloadCache.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/Reachability.h
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIFormDataRequest.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/Reachability.m
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/Library/ASIHTTPRequest/ASIDataCompressor.m
+END

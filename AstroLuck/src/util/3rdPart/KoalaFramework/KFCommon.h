@@ -1,0 +1,53 @@
+//
+//  KFCommon.h
+//  KoalaFramework
+//
+//  Created by CHEN Menglin on 10/22/12.
+//  Copyright (c) 2012 baidu. All rights reserved.
+//
+
+#ifndef KoalaFramework_KFCommon_h
+#define KoalaFramework_KFCommon_h
+
+#ifdef KF_DEBUG
+    #define KFLog NSLog
+#else
+   #define KFLog(...)
+#endif
+
+#ifndef KF_RELEASE_SAFELY
+    #define KF_RELEASE_SAFELY(__POINTER) { if (nil != (__POINTER)) { [__POINTER release]; __POINTER = nil;} }
+#endif
+
+#undef	KF__INT
+#define KF__INT( __x )              [NSNumber numberWithInt:(NSInteger)__x]
+
+#undef	KF__UINT
+#define KF__UINT( __x )             [NSNumber numberWithUnsignedInt:(NSUInteger)__x]
+
+#undef	KF__FLOAT
+#define	KF__FLOAT( __x )			[NSNumber numberWithFloat:(float)__x]
+
+#undef	KF__DOUBLE
+#define	KF__DOUBLE( __x )			[NSNumber numberWithDouble:(double)__x]
+
+#undef	KF__IMAGE
+#define KF__IMAGE( __name )         [UIImage imageNamed:__name]
+
+#undef	KF__IMAGE_PATH_RES
+#define KF__IMAGE_PATH_RES( __name )             [[[UIImage alloc] initWithContentsOfFile:__name] autorelease]
+
+
+#define  KF__timestamp() CACurrentMediaTime()
+
+
+// 离线缓存策略
+typedef enum {
+    
+
+    KFCacheRuleNetwork = 1, // 直接从网络获取
+    KFCacheRuleLocalAndNetwork = 2, // 从本地获取，不满足条件，则从网络获取
+    KFCacheRuleLocal = 3, // 只从本地获取
+} KFCacheRule;
+
+#endif

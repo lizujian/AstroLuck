@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/KoalaFramework/KoalaFramework/Core/Storage
+END
+KFLiteStorageService.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/KoalaFramework/KoalaFramework/Core/Storage/KFLiteStorageService.m
+END
+KFDatabaseService.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/KoalaFramework/KoalaFramework/Core/Storage/KFDatabaseService.m
+END
+KFLiteStorageService.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/KoalaFramework/KoalaFramework/Core/Storage/KFLiteStorageService.h
+END
+KFDatabaseService.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/app/search/ns-mobile/!svn/ver/32961/trunk/iphone-lvyou/iphone-restructure/koala-framework/KoalaFramework/KoalaFramework/Core/Storage/KFDatabaseService.h
+END

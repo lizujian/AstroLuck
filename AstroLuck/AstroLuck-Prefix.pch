@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'AstroLuck' target in the 'AstroLuck' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+    #define KF_DEBUG
+
+//#define  USE_SIMULATION_DATA
+
+    #import "Tap_Marco.h"
+    #import "KFCommon.h"
+#import "FrameworkRelativeDefines.h"
+#endif
+
+
+
